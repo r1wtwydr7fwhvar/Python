@@ -1,0 +1,24 @@
+2025-07-08 16:58:45,439 - INFO - Logging started.
+2025-07-08 16:58:45,439 - INFO - Connected to the database.
+2025-07-08 16:58:45,457 - INFO - Table 'users' created or already exists.
+2025-07-08 16:58:45,458 - INFO - 3 users inserted into the database.
+2025-07-08 16:58:45,458 - INFO - Fetched row: (1, 'Alice', 30)
+2025-07-08 16:58:45,458 - INFO - Fetched row: (2, 'Bob', 25)
+2025-07-08 16:58:45,458 - INFO - Fetched row: (3, 'Charlie', 35)
+2025-07-08 16:58:45,465 - INFO - Changes committed.
+2025-07-08 16:58:45,465 - INFO - Database connection closed.
+2025-07-08 16:58:45,465 - INFO - Logging ended.
+2025-07-08 17:16:15,699 - INFO - Logging started.
+2025-07-09 01:31:46,528 - INFO - Logging started.
+2025-07-09 01:31:46,528 - INFO - Connected to the database.
+2025-07-09 01:31:46,528 - INFO - Table 'users' created or already exists.
+2025-07-09 01:31:46,533 - INFO - 3 users inserted into the database.
+2025-07-09 01:31:46,533 - INFO - Fetched row: (1, 'Alice', 30)
+2025-07-09 01:31:46,534 - INFO - Fetched row: (2, 'Bob', 25)
+2025-07-09 01:31:46,534 - INFO - Fetched row: (3, 'Charlie', 35)
+2025-07-09 01:31:46,534 - INFO - Fetched row: (4, 'Alice', 30)
+2025-07-09 01:31:46,534 - INFO - Fetched row: (5, 'Bob', 25)
+2025-07-09 01:31:46,534 - INFO - Fetched row: (6, 'Charlie', 35)
+2025-07-09 01:31:46,540 - INFO - Changes committed.
+2025-07-09 01:31:46,540 - INFO - Database connection closed.
+2025-07-09 01:31:46,540 - INFO - Logging ended.
